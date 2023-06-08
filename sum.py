@@ -1,3 +1,3 @@
 a=5
 b=6
-print('Sum',a+b)
+print('Sum of two',a+b)
